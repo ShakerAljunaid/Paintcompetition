@@ -1,0 +1,13 @@
+.line{border-bottom: 2px solid #333}
+.small-line{font-weight:bold;font-size:15pt;color:#0d2e72;}
+.header{font-weight:bold;}
+.checkSpan {
+    padding-right: 39px;
+}
+.no-repeat{
+	border:none;
+}
+@media print {
+ body{margin:0 !important;}
+}
+
